@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🎙️ Listen to [podcast](https://pc.st/1648026802)
-- 📃 Read blog [here](https://pakhomovalexander.github.io/ru/posts/smart-builder/)
 - 💌 Subscribe to [telegram channel](https://t.me/toxic_enterprise)
